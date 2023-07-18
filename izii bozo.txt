@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>my eh lifee</title>
+
+
+<link rel="stylesheet" href="mystyle.css">
+<!--
+<style>
+
+* {
+	font-family: verdana;
+
+}
+
+
+
+body {
+  background-color: #DBF9FC;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  color: white;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  text-align: left;
+}
+
+.figcaption {
+  font-family: verdana;
+  font-size: 20px;
+  color: white;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  text-align: center;
+}
+
+
+.white {
+  font-family: verdana;
+  font-size: 20px;
+  color: white;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  text-align: left;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.colorchange {
+	background-color: darkseagreen;
+	font-size: 60px;
+	border: 2px solid white;
+	width: fit-content;
+}
+
+</style>
+-->
+
+</head>
+
+
+<body>
+<!--someone -->
+<!--This is the syntax for creating a comment in HTML! Make note of the exclamation point (!) in the starter tag, but NOT the end tag. -->
+<h1>my eh life</h1>
+
+<!-- Simple image code -->
+
+<img class="testimg" src="images/ladybug.jpg" class="figcaption" alt="If you're seeing this, that means that you're not seeing my cool bug. And that's sad!" title="A cool bug I found on Google!">
+
+
+<!-- Figcaption Code -->
+
+<figure>
+<img src="images/bug.jpg" class="figcaption" alt="bedwars pro!" title="life is eh!">
+<br/>
+<figcaption  class="figcaption">my life is better with bedwars!</figcaption>
+</figure>
+
+
+<p class="colorchange"> hi, this is the best bedwars pro!</p>
+<p> Last weekend,i played a bedwars tournament!</p>
+<br />
+<br />
+
+<!-- Bold Code: <b> -->
+<p>bedwars is the best game in the world <b>bold.</b></p>
+<p>Dodge SRT hellcat is better than BMW so deal with it. <b>key features</b> in bold.</p>
+
+<!-- Italics: <i> -->
+<p>cat >:) <i>italic</i>. </p>
+<p>its a oop <i>oh oh oh oh oh oh we'er in heaven</i>.</p>
+<p>captin crunch is my fav ceral <i>boop</i>.</p>
+
+<!-- Superscript/Subscript: <sup> <sub> -->
+<p>On the 4<sup>th</sup> of november C.C. afton oofed by fredbear<sup>2</sup>.</p>
+<p>RIP<sub>2</sub> C.C.afton<sub>1</sub>.</p>
+
+<!-- Line breaks: <br />-->
+<p>i like<br />bedwars<br />and potatos.</p>
+
+<!-- Horizontal rules: <hr /> -->
+<p>my PC is way to high end for me .</p>
+<hr />
+<p>i pooped my pants.</p>
+
+<!-- Ordered Lists: <ol> -->
+<ol class="white">
+<li>bedwars</li>
+<li>foltyn</li>
+<li>MINI</li>
+<li>tanqr</li>
+<li>hoopie</li>
+</ol>
+
+<!-- Unordered Lists: <ul> -->
+<ul class="white">
+<li>apple</li>
+<li>banana</li>
+<li>big mac</li>
+<li>sowee</li>
+<li>lfjokdnhposf bzpo</li>
+</ul>
+
+
+<!-- Definition List: <dl> -->
+
+<dl class="white">
+<dt>BP 50</dt>
+<dd>come join the tz4 clan</dd>
+<dt>better than L8R</dt>
+<dd>better than DV</dd>
+<dd>better than gg</dd>
+<dt>better than SUS</dt>
+<dt>where just better</dt>
+<dd>nightmare here i come</dd>
+</dl>
+
+
+<!-- Nested Lists: Create Sublists or nested -->
+
+<ul class="white">
+<li>DB LEGENDS</li>
+<li>VEGETA
+ <ul>
+ <li>ULTRA EGO</li>
+ <li>GOKU</li>
+ <li>ultra instinct</li>
+ <li>BEERUS IS GAWD</li>
+ </ul>
+</li>
+<li>gg</li>
+</ul>
+
+<!-- Movie Review Links in a List: -->
+<p>fnaf:
+<ul class="white">
+ <li><a href="https://fivenightsatfreddys3.com/" >CLICK HERE TO PLAY FNAF!</a></li>
+ <li><a href="https://www.youtube.com/watch?v=r4Dvl8L40bM" target="_blank">my clan</a></li>
+ <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">not a trap 💀💀💀</a></li>
+ <li><a href="https://www.youtube.com/watch?v=Lb0IaiygQ94" target="_blank">apple</a></li>
+</ul>
+</p>
+
+<!-- Opening links in a new tab using target: -->
+<a href="http://www.imdb.com" target="_blank" class="white">go the imb te check out the new FNAF movie</a>
+<br />
+<br />
+
+<!-- Linking to another HTML file in the same folder. -->
+<a href="https://www.youtube.com/channel/UCRkuUgtDAL4XSU5jB40J_wA" target="_blank" class="white"><b><u>check the best youtuber out!</u></b></a>
+<br />
+<br />
+
+<!-- A simple table. Make note of the <tr> and <td> syntax, which is very similar to the Definition List we worked on yesterday. -->
+<table class="white">
+ <tr>
+ <td>1</td>
+ <td>2</td>
+ <td>3</td>
+ </tr>
+ <tr>
+ <td>4</td>
+ <td>5</td>
+ <td>6</td>
+ </tr>
+ <tr>
+ <td>7</td>
+ <td>8</td>
+ <td>9</td>
+ </tr>
+</table>
+
+<!-- A table with table headings for columns and rows. Columns and rows can be selected using the "scope" attribute.  -->
+<table class="white">
+ <tr>
+ <th></th>
+ <th scope="col"wins"</th>
+ <th scope="col">lost</th>
+ </tr>
+ <tr>
+ <th scope="row">wins:</th>
+ <td>120</td>
+ <td>135</td>
+ </tr>
+ <tr>
+ <th scope="row">lost:</th>
+ <td>500</td>
+ <td>300</td>
+ </tr>
+</table>
+
+<br />
+<br />
+
+<!-- Table utilizing  <thead>, <tbody>, and <tfoot>, which is useful for CSS. -->
+<table class="white">
+ <thead>
+ <tr>
+ <th>hi</th>
+ <th>hi</th>
+ <th>hi</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <th>hi</th>
+ <td>250</td>
+ <td>36</td>
+ </tr>
+ <tr>
+ <th>hi</th>
+ <td>285</td>
+ <td>48</td>
+ </tr>
+ <!-- additional rows as above -->
+ <tr>
+ <th>hi</th>
+ <td>129</td>
+ <td>64</td>
+ </tr>
+ </tbody>
+ <tfoot>
+ <tr>
+ <td></td>
+ <td>664</td>
+ <td>148</td>
+ </tr>
+ </tfoot>
+</table>
+ <br />
+  <br />
+  
+<!-- Adding a simple video to our website. -->
+<video src="/video/video.mp4" class="center" preload controls></video>
+
+ 
+<br />
+<br />
+ <!-- Embedding a Youtube video to our website: -->
+<iframe width="640" height="480" class="center" src="https://www.youtube.com/watch?v=dJ8xUjZSBOU" title="Squash banana" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br />
+<br />
+
+<!-- Adding a simple audio player to our website. -->
+<audio src="audio/amogus.mp3" class="center" controls>
+<p>This browser does not support our audio format.</p>
+
+
+
+</body>
+
+</html>
